@@ -1,0 +1,3 @@
+got to src then npm run server
+
+admins have control to create, edit, and delete new
