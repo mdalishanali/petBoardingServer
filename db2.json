@@ -1,0 +1,20 @@
+{
+  "name": "Wiggle Bubble Pets Services",
+  "city": "Gorakhpur",
+  "watch": 4,
+  "address": "Beside the City Mall",
+  "cost": 150,
+  "rating": 5,
+  "verified": "yes",
+  "petTypes": "DOG",
+  "petSize": 40,
+  "petSupervision": "Pets will never be left unattended",
+  "petUnsupervision": "The place your pet will be if they are left unsupervised at home.",
+  "sleepingPlace": "Wherever they want",
+  "poty": "Full access outside",
+  "walkPerDay": 22,
+  "typeofHome": "House",
+  "outdoorSize": "Large",
+  "emergencyTransport": "yes",
+  "summary": "Boarding facilities you leave em we love them"
+}
